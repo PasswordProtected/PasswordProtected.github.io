@@ -1,5 +1,5 @@
 ﻿AuthName "Access Denied"
 AuthType Basic
-AuthUserFile /customers/4/1/2/passwordprotected.github.io/httpd.www/.htpasswd
+AuthUserFile /STuff/passwordprotected.github.io/.htpasswd
 AuthGroupFile /dev/null 
 require valid-user
