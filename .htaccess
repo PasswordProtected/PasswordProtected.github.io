@@ -1,4 +1,4 @@
-AuthName "Access Denied"
+﻿AuthName "Access Denied"
 AuthType Basic
 AuthUserFile /customers/4/1/2/passwordprotected.github.io/httpd.www/.htpasswd
 AuthGroupFile /dev/null 
