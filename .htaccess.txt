@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile /Users/Zihao/Desktop/STuff/PasswordProtected.github.io/.htpasswd  
+AuthUserFile /STuff/PasswordProtected.github.io/.htpasswd  
 require valid-user
