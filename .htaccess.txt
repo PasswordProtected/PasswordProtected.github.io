@@ -1,4 +1,5 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile /STuff/PasswordProtected.github.io/index.html/.htpasswd
+AuthName "Access Denied"
+AuthType Basic
+AuthUserFile /customers/4/1/2/passwordprotected.github.io/httpd.www/.htpasswd
+AuthGroupFile /dev/null 
 require valid-user
