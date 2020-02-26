@@ -1,0 +1,5 @@
+AuthUserFile C:\Users\Zihao\Desktop\STuff\PasswordProtected.github.io\.htpasswd
+AuthGroupFile C:\Users\Zihao\Desktop\STuff\PasswordProtected.github.io
+AuthName "Please Enter Password"
+AuthType Basic
+Require valid-user
