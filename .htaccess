@@ -1,5 +1,0 @@
-﻿AuthName "Access Denied"
-AuthType Basic
-AuthUserFile /STuff/passwordprotected.github.io/.htpasswd
-AuthGroupFile /dev/null 
-require valid-user
